@@ -24,9 +24,3 @@
 - News API / JSON backend  
 - CEF Web Interface  
 - Version control & launcher backend  
-
----
-
-## 🧰 Tech Stack
-
-**Languages**
