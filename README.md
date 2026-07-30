@@ -1,7 +1,7 @@
 # 👋 Hi, I'm ElVolodya
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Junior+C%2B%2B+Developer;I+build+real+projects;NextGen+Launcher+Developer;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Middle+C%2B%2B+Developer;I+build+real+projects;NextGen+Launcher+Developer;Future+Software+Engineer" />
 </p>
 
 ---
