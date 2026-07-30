@@ -8,14 +8,14 @@
 
 ## 🚀 About Me
 
-- 🧠 Junior C++ Developer focused on clean & understandable code  
+- 🧠 Middle C++ Developer focused on clean & understandable code  
 - 🛠 I learn by building real projects, not theory  
 - 🤝 I like architecture, optimization & real dev workflow  
 - 🎯 Goal — become strong Software Engineer and ship real products  
 
 ---
 
-## 🔥 My Main Project — NextGen Launcher
+## 🔥 My Main Project — Furexa Launcher
 
 **Game launcher with real infrastructure**
 
